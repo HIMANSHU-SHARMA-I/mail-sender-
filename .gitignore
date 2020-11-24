@@ -2,5 +2,5 @@ __pycache__/
 .idea/
 *.manifest
 *.spec
-build/
-dist/
+build/chek
+dist/chek
